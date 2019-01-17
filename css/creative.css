@@ -89,6 +89,10 @@ img::-moz-selection {
   color: #fff;
   background: transparent;
 }
+/*my edits*/
+span{
+font-size: 15px;
+}
 
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
