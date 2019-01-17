@@ -93,6 +93,10 @@ img::-moz-selection {
 span{
 font-size: 15px;
 }
+div .color p{
+  font-size: 16px;
+  color:#ffffff;
+}
 
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
